@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi I’m NMSN. 👋
 
-🌱 I’m currently learning ...
+- 📫 I’m settled in Hangzhou.
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for a interesting,geeky,novel work
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmsn)](https://github.com/anuraghazra/github-readme-stats)
 
