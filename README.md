@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for a interesting,geeky,novel work
 
+![](https://komarev.com/ghpvc/?username=nmsn)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmsn)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmsn)](https://github.com/anuraghazra/github-readme-stats)
