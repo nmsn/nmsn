@@ -6,9 +6,12 @@
 
 ![](https://komarev.com/ghpvc/?username=nmsn)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmsn)](https://github.com/anuraghazra/github-readme-stats)
+### My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmsn)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img width="340px" height="156" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmsn&show_icons=true&locale=en&layout=compact" alt="wkylin" />
+  <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=nmsn&show_icons=true&locale=en" alt="wkylin" />
+</div>
 
 <!--
 **nmsn/nmsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
