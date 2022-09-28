@@ -2,7 +2,7 @@
 
 - 📫 I’m settled in Hangzhou.
 - 🌱 I’m currently learning ...
-- 🤔 I’m looking for a interesting,geeky,novel work
+- 🤔 I’m looking for a interesting, geeky, novel work
 
 ![](https://komarev.com/ghpvc/?username=nmsn)
 
