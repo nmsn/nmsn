@@ -9,8 +9,8 @@
 ### My Stats:
 
 <div>
-  <img width="340px" height="156" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmsn&show_icons=true&locale=en&layout=compact" alt="wkylin" />
-  <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=nmsn&show_icons=true&locale=en" alt="wkylin" />
+  <img width="340px" height="156" src="https://github-readme-stats-jfuqtjvje-nmsn.vercel.app/api/top-langs?username=nmsn&show_icons=true&locale=en&layout=compact" alt="wkylin" />
+  <img  width="400px" src="https://github-readme-stats-jfuqtjvje-nmsn.vercel.app/api?username=nmsn&show_icons=true&locale=en" alt="wkylin" />
 </div>
 
 ### Tools:
